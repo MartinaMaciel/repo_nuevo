@@ -47,6 +47,7 @@ img{
 }
 .class_main{
     height: 600px;
+    background-image: linear-gradient(to top, rgb(0, 183, 255), rgb(255, 0, 242));
 }
 .banner{
     object-fit: cover;
